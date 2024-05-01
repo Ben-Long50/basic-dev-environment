@@ -1,1 +1,8 @@
-# basic-dev-environment
+# Basic Dev Environment
+
+Included Packages:
+
+-ESLint
+-Prettier
+-Babel
+-Jest

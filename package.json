@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "basic-dev-environment",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
